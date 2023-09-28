@@ -1,1 +1,7 @@
 I am CLONED
+
+this file was created from vs code and:
+-uploaded to github
+-cloned
+-branched
+-merged (confilcts were resolved)
